@@ -4,4 +4,4 @@ there is about page as well which tells you more about what newsGrid is. Note th
 concepts and better understanding of css Grid property.
 
 # NewsGrid preview
-<img src="https://github.com/sanizm/Project_HackeRank/blob/main/HackerRank.gif" width="100%" />
+<img src="https://github.com/sanizm/Project_NewsGrid/blob/master/NewsGrid.gif" width="100%" />
